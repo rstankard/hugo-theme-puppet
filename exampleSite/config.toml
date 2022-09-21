@@ -73,7 +73,9 @@ custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/cs
 [params.sidebar]
 enable = true
 avatar = "/img/home-bg.jpg"
-bio = "Texas Wesleyan Security<br>817-531-4911<br>In case of emergency, call 911"
+bio = "Texas Wesleyan Security  
+       817-531-4911  
+       In case of emergency, call 911"
 
 [params.social]
 rss_enable = false
