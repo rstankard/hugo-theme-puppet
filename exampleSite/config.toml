@@ -69,8 +69,8 @@ weight = 100
 
 
 [params]
-author = "Puppet"
-description = "A simple and clean theme for Hugo"
+author = "Alert Hub"
+# description = "A simple and clean theme for Hugo"
 keywords = "blog,developer,personal"
 img_home = "/img/home-bg.jpg"
 img_404 = "/img/404-bg.jpg"
@@ -81,12 +81,12 @@ custom_js = []
 custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
 
 [params.sidebar]
-enable = true
+enable = false
 avatar = "/img/home-bg.jpg"
 bio = "a personal website"
 
 [params.social]
-rss_enable = true
+rss_enable = false
 twitter = "johndoe"
 facebook = "johndoe"
 zhihu = "johndoe"
