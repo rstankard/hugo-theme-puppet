@@ -6,7 +6,7 @@
         <!-- SNS Link -->
         {{ partial "sns-links.html" (dict "center" true "social" .Site.Params.social ) }}
         <p class="copyright text-muted">
-          Copyright &copy; TXWES Security | 817-531-4911 | In case of emergency, call 911
+          Copyright &copy; {{ .Site.Title }} {{ now.Format "2006" }}
           <br>
           Powered by <a href="https://gohugo.io">Hugo</a>
         </p>
