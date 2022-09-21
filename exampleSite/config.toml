@@ -52,7 +52,7 @@ url = "/archive/"
 weight = 10
 [[menu.main]]
 identifier = "github"
-name = "Github"
+name = "TXWES Security"
 url = "https://txwes.edu/security/"
 weight = 20
 
