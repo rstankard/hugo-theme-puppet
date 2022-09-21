@@ -1,5 +1,5 @@
 baseURL = "http://localhost:1313/"
-title = <span style="color:white">*Emergency Alerts*</span>
+title = "Emergency Alerts"
 
 theme = "puppet"
 themesDir = "../.."
