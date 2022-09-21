@@ -1,5 +1,5 @@
 ---
 title: Past Alerts
-header_img: /img/alerts-bg.jpg
+header_img: /img/campus-bg.jpg
 short: true
 ---
