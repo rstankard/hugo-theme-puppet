@@ -96,7 +96,7 @@ linkedin = "johndoe"
 
 # See https://giscus.app/
 [params.giscus]
-enable = true
+enable = false
 repo = "roninro/hugo-theme-puppet"
 repo_id = "R_kgDOHuvyhw"
 category = "General"
