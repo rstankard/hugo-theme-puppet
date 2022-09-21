@@ -1,7 +1,7 @@
 +++
 author = "TXWES Security"
 title = "Alert 9-21-22 Update 1"
-date = "2022-09-21"
+date = "2022-09-20"
 description = "All clear. Resume normal activites."
 +++
 
