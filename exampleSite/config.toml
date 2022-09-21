@@ -61,7 +61,7 @@ weight = 20
 author = "Alert Hub"
 # description = "A simple and clean theme for Hugo"
 keywords = "blog,developer,personal"
-img_home = "/img/alerts-bg.jpg"
+img_home = "/img/campus-bg.jpg"
 img_404 = "/img/404-bg.jpg"
 
 useFaviconGenerator = true
