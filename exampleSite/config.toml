@@ -74,8 +74,8 @@ custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/cs
 enable = true
 avatar = "/img/home-bg.jpg"
 bio = "**Texas Wesleyan Security**"
-bio = "817-531-4911"
-bio = "In case of an emergency, call 911."
+bio1 = "817-531-4911"
+bio2 = "In case of an emergency, call 911."
 
 [params.social]
 rss_enable = false
