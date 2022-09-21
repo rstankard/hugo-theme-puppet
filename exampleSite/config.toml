@@ -1,5 +1,4 @@
 baseURL = "http://localhost:1313/"
-title = "Alert Hub"
 
 theme = "puppet"
 themesDir = "../.."
@@ -51,7 +50,7 @@ identifier = "archive"
 name = "Past Alerts"
 url = "/archive/"
 weight = 10
-[[menu.main]
+[[menu.main]]
 identifier = "github"
 name = "Github"
 url = "https://txwes.edu/security/"
@@ -62,7 +61,7 @@ weight = 20
 author = "Alert Hub"
 # description = "A simple and clean theme for Hugo"
 keywords = "blog,developer,personal"
-img_home = "/img/home-bg.jpg"
+img_home = "/img/alerts_banner.png"
 img_404 = "/img/404-bg.jpg"
 
 useFaviconGenerator = true
