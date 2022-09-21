@@ -1,6 +1,5 @@
 ---
-title: Archive
-description: archive archive archive
-header_img: /img/archive-bg.jpg
+title: Past Alerts
+header_img: /img/alerts-bg.jpg
 short: true
 ---
